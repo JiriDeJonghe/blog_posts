@@ -1,6 +1,6 @@
 ---
-title: Do you really need to use an LLM for everything?
-date: 19/02/2025
+title: Use LLMs. Replace LLMs.
+date: 23/02/2025
 excerpt: "LLMs are everywhere. They are being shoehorned in every possible process flow, often without a second thought, seen as magic black box that will solve all our problems. AI Engineers prefer skipping out on what previously was the core component of the job: deeply understanding and developing specialized models. As a data scientist myself with both a love for model building as well as system design I am torn. Are LLMs really the silver bullet for every NLP task? Is there still a point in developing models yourself? In this blogpost I aim to combine these seemingly two opposing ideas, discuss the tradeoffs of both approaches, and discuss how we can reconcile them through a hybrid approach, levering the strengths of both approaches to train more robust, specialized systems. Finally, I provide a showcase of a tool that might help in achieving this goal: InstaNER."
 ---
 
